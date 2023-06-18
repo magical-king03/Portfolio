@@ -3,7 +3,7 @@ function Home(){
     return(
         <div className="home">
             <h2 className='home-head'>Viswiesh KM</h2>
-            <p>Hey, I'm Vish. I' currenty studying B.Tech Computer Science and Business Systems(CSBS) at Sastra University, Tanjore. I am very much interested in Web development and training myself as a Full stack Web Developer.</p>
+            <p>Hey, I'm Vish. I' currently studying B.Tech Computer Science and Business Systems(CSBS) at Sastra University, Tanjore. I am very much interested in Web development and training myself as a Full stack Web Developer.</p>
             <div className='img-content'>
                 <img src={Img} className='img' alt='Img'/>
                 <div className='icons'>
