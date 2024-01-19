@@ -38,6 +38,11 @@ function Project(){
                 <td>Clone of Qsica</td>
                 <td><a href="https://magical-king03.github.io/qsica_order_confirmation/" target="_blank">Click here</a></td>
                 </tr>
+                <tr>
+                <td>7</td>
+                <td>Rock, Paper, Scissors game</td>
+                <td><a href="https://rps-wd.vercel.app/" target="_blank">Click here</a></td>
+                </tr>
             </table>
         </div>
     )
