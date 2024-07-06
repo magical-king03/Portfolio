@@ -4,8 +4,8 @@ function About() {
     return (
         <div className="">
             <h2 className="font-bold text-4xl ml-[32px]">About Me</h2>
-            <div className="md:w-[700px] m-[32px]">
-                <div style={{ overflowY: 'auto', height: 'calc(95vh - 330px)',scrollbarWidth: "1px", msOverflowStyle: 'none' }} className="w-full p-5">
+            <div className="md:w-[700px] md:m-[32px] mx-[12px] mb-[48px] mt-[32px]">
+                <div style={{ overflowY: 'auto', height: 'calc(95vh - 325px)',scrollbarWidth: "1px", msOverflowStyle: 'none' }} className="w-full p-5">
                     <p>Hey, I'm Viswiesh.</p>
                     <p>I'm currently studying B.Tech CSBS at Sastra University, Tanjore. I love to explore many ideas from my friends and professors.</p>
                     <br></br>
