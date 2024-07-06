@@ -9,7 +9,7 @@ import { Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <div className='md:w-[800px] md:flex md:my-[100px] md:mx-auto text-white'>
+    <div className='md:w-[800px] relative md:flex md:my-[100px] md:mx-auto text-white'>
       <Background />
       <div className='flex items-center justify-center md:block'>
         <Nav />
@@ -20,7 +20,6 @@ function App() {
           <Route path='/' element={<Home />} />
           <Route path='/about' element={<About />} />
           <Route path='/project' element={<Project />} />
-          {/* <Route path='/social' element={<Social />} /> */}
         </Routes>
     <Footer />
       </div>
