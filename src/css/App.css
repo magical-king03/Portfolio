@@ -1,0 +1,26 @@
+
+.links:hover{
+  background-color: #363636;
+  font-weight: 700;
+}
+.links:focus{
+  font-weight: 700;
+}
+table {
+  border-collapse: collapse;
+  margin: 0 32px;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #404040;
+}
+
+th {
+  background-color: #282b28;
+  color: white;
+}
