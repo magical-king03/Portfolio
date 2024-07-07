@@ -11,7 +11,7 @@ function Project(){
                 <tr>
                 <td>1</td>
                 <td>Todo Application</td>
-                <td><a href="https://github.com/magical-king03/Duty-Dash.git" rel="noreferrer" target="_blank">Click here</a></td>
+                <td><a href="https://github.com/magical-king03/Todo-application" rel="noreferrer" target="_blank">Click here</a></td>
                 </tr>
                 <tr>
                 <td>2</td>
